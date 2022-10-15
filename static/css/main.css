@@ -102,6 +102,10 @@ legend {
     color: rgb(19, 36, 32);
 }
 
+.navbar i{
+    color: white;
+}
+
 footer {
     text-align: center;
     color: #f27620;
